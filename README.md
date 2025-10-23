@@ -1,0 +1,2 @@
+The codes are for the forward and inverse kinematics for a SCARA Robot with 2R and 1P. 
+The last code is for having the straight line trajectoru for the same SCARA bot
